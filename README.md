@@ -14,6 +14,5 @@
   }
 </script>
 ```
-
 [강릉원주대학교](http://www.gwnu.ac.kr)
 
